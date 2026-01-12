@@ -5,7 +5,9 @@
 '------' '------' '------' '------' '------' '------'
 
 
-This repo contains the code I utilized to pass the a worktest for a research position at a superforecasting company
+This repo contains the code I utilized to pass the a worktest for a research position at a superforecasting company. 
+
+The csv data file is too big to upload to git but is found at the following link: https://dataverse.harvard.edu/dataverse/hfc
 
 To run the script, execute main.py. It will display in the console the results.
 
