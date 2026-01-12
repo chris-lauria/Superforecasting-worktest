@@ -5,7 +5,7 @@
 '------' '------' '------' '------' '------' '------'
 
 
-This repo contains the code I utilized to pass the a worktest for research position in a superforecasting company
+This repo contains the code I utilized to pass the a worktest for a research position at a superforecasting company
 
 To run the script, execute main.py. It will display in the console the results.
 
